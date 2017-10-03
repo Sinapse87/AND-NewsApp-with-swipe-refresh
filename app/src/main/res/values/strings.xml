@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="placeholder">Placeholder</string>
+    
+    <string name="by_author">by</string>
+
+    <!-- Info messages -->
+    <string name="no_connection">No connection found.</string>
+    <string name="no_results">No results found.</string>
+    <string name="up_to_date">News are up-to-date.</string>
+    <string name="no_connection_toast">Please check your connection.</string>
+
+    <!-- Settings menu -->
+    <string name="settings_menu_item">Settings</string>
+    <string name="settings_title">News Settings</string>
+    <string name="menu_refresh">Refresh</string>
+
+    <!-- Strings for Order-By Preference -->
+    <string name="settings_order_by_label">Order by</string>
+    <string name="setting_order_by_default" translatable="false">@string/settings_order_by_newest_value</string>
+    <string name="settings_order_by_key" translatable="false">order by</string>
+
+
+    <string name="settings_order_by_relevance_label">Most Relevant</string>
+    <string name="settings_order_by_relevance_value" translatable="false">relevance</string>
+
+    <string name="settings_order_by_newest_label">Most Recent</string>
+    <string name="settings_order_by_newest_value" translatable="false">newest</string>
+
+    <!-- Strings for categories -->
+    <string name="settings_category_label">Category</string>
+    <string name="settings_category_default" translatable="false">@string/settings_category_all_value</string>
+    <string name="settings_category_key" translatable="false">Choose category</string>
+
+    <string name="settings_caetgory_all_label">All</string>
+    <!-- Placeholder value for category 'all' -->
+    <string name="settings_category_all_value" translatable="false">all</string>
+    <string name="settings_category_sport_label">Sport</string>
+    <string name="settings_category_sport_value" translatable="false">sport</string>
+    <string name="settings_category_world_label">World</string>
+    <string name="settings_category_world_value" translatable="false">world</string>
+    <string name="settings_category_money_label">Money</string>
+    <string name="settings_category_money_value" translatable="false">money</string>
+    <string name="settings_category_science_label">Science</string>
+    <string name="settings_category_science_value" translatable="false">science</string>
+    <string name="settings_category_travel_label">Travel</string>
+    <string name="settings_category_travel_value" translatable="false">travel</string>
+    <string name="settings_category_lifestyle_label">Lifestyle</string>
+    <string name="settings_category_lifestyle_value" translatable="false">lifeandstyle</string>
+    <string name="settings_category_business_label">Business</string>
+    <string name="settings_category_business_value" translatable="false">business</string>
+    <string name="settings_category_environment_label">Environment</string>
+    <string name="settings_category_environment_value" translatable="false">environment</string>
+    <string name="settings_category_fashion_label">Fashion</string>
+    <string name="settings_category_fashion_value" translatable="false">fashion</string>
+</resources>

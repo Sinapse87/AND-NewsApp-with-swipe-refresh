@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textsize_headline">18sp</dimen>
+
+    <dimen name="standard_padding">16dp</dimen>
+    <dimen name="small_padding">8dp</dimen>
+    <dimen name="verysmall_padding">4dp</dimen>
+
+    <!-- Width : height = 16/9 -->
+    <dimen name="image_width">180dp</dimen>
+    <dimen name="image_height">101dp</dimen>
+
+    <!-- Layout height containing preview text, author and preview image. Make sure that this value
+            always matches atleast image_height + 18dp -->
+    <dimen name="trailertext_block">120dp</dimen>
+</resources>
